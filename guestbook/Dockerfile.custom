@@ -1,0 +1,3 @@
+FROM ghcr.io/makyraen/inhatc-devops-guestbook:v1
+ENV APP_TITLE="한동민의 방명록" \
+    THEME_COLOR="#7C9A82"
