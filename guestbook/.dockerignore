@@ -8,3 +8,5 @@ venv/
 README.md
 compose.yaml
 .env
+
+.env
